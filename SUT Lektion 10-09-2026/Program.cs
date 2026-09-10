@@ -54,12 +54,21 @@ namespace SUT_Lektion_10_09_2026
            // }
 
 
+  
+    }
+class user
+{
 
 
+}
+class student
+{
+
+
+}
 
 
 
 
         }
-    }
 }
